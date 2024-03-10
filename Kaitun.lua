@@ -15,7 +15,7 @@ getgenv().Config = {
     },
     ["Chat"] = {
         ["Enable"] = false, --// Enable Chat
-        ["Content"] = {"Hello me use BielHub Auto Bounty"} --// Content
+        ["Content"] = {"Hello me use BielHub Auto Bounty desenvolvido by gutindobr e !kai"} --// Content
     },
     ["Misc"] = {
         ["Hide If Low Health"] = true, --// Run
