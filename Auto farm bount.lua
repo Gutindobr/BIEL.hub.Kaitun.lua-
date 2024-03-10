@@ -58,4 +58,5 @@ getgenv().Setting = {
         ["X"] = {["Enable"] = true, ["Hold Time"] = 0}
     }
 }
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gutindobr/BIEL.hub.Kaitun.lua-/main/Kaitun.lua"))()
