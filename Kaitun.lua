@@ -106,3 +106,4 @@ game:GetService("UserInputService").InputBegan:Connect(function(input, gameProce
         createSkipButton()
     end
 end)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gutindobr/BIEL.hub.Kaitun.lua-/main/Kaitun.lua"))()
